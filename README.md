@@ -1,0 +1,1 @@
+# Data-Migration-from-On-Prem-SQL-Server-to-Azure-SQL-using-Azure-Data-Factory
